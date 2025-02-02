@@ -1,7 +1,19 @@
 - 👋 Hi, I’m Abhishek Seal
+
 - 👀 I’m a tech enthusiast
+
 - 🌱 I’have interest in Full Stack Software Development
-- 📫 Contact - abhisheksealofficial@gmail.com
+
+- 🌱 Former SDE Intern at IBM
+
+- 🌱 Programming Language- HTML, CSS, JavaScript, C, C++, Python, PHP
+
+- 🌱 Tools - Git, Git-Hub, VS-Code
+
+- 🌱 Strong Communication Skill
+
+- 📫 Contact Email - abhisheksealofficial@gmail.com
+
 - 📫 LinkedIn - https://www.linkedin.com/in/abhisheksealofficial
 
 I am a Full Stack Software Engineer with a passion for building scalable, efficient, and user-friendly applications. I specialize in both front-end and back-end development, working with technologies like HTML, CSS, JavaScript, Python, C, C++, and PHP. I love problem-solving, learning new technologies, and bringing ideas to life through code.
