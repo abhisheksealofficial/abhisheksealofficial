@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Seal
-- 👀 I’m a tech enthusiastic
+- 👀 I’m a tech enthusiast
 - 🌱 I’have interest in Full Stack Software Development
 - 📫 Contact - abhisheksealofficial@gmail.com
 - 📫 LinkedIn - https://www.linkedin.com/in/abhisheksealofficial
