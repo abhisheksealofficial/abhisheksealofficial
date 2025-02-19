@@ -1,6 +1,6 @@
 ![logo](https://github.com/abhisheksealofficial/abhisheksealofficial/blob/main/Software%20Engineer.jpg)
 <h1 align="center">Hi 👋, I'm Abhishek Seal</h1>
-<h3 align="center">A Passionate Software Development Engineer from India</h3>
+<h3 align="center">Aspiring Software Engineer || Former Software Developer Intern @IBM </h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/abhisheksealofficial/abhisheksealofficial/blob/main/Software_Engineer.jpg">
 
